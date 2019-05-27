@@ -1,0 +1,18 @@
+Obtener de las empresas
+Total Activos
+Activos Circulantes 
+Inventarios (Si aparece)	
+Cuentas por cobrar
+Activos No Circulantes
+Activos Fijos
+Activos Diferidos
+//---------------Los Activos se ordenan de mayor a menor------------------------//
+Pasivos Corto plazo
+Pasivos Largo plazo
+Capital Contable
+Capital Social
+Ventas
+Costo de Ventas
+Utilidad Antes de Impuestos
+Utilidad del Ejercicio
+//---------------Los pasivos se ordenan de menor a mayor-------------------------//

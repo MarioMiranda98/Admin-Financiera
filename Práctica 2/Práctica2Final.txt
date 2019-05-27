@@ -1,0 +1,28 @@
+﻿Hacer un ranking de empresas (Práctica 2).
+Excel interactivo
+1.-Portada.
+	*Poner menu que lleve a los apartados de aqui
+2.-Antecedentes.
+	*Breve historia de las empresas participantes
+3.-Datos (Tablas que ordene). (Único para poder modificar)
+4.-Desarrollo "Modelo"
+5.-Elaborar Ranking
+6.-Conclusiones
+
+Analizar 4 factores.
+2 Razones para cada cosa
+*Liquidez.
+*Deuda.
+*Utilización de los activos
+*Rentabilidad.//Esta darle las tres razones de abajo
+	-RSActi
+	-RSCapi
+	-Margen de utilidad.
+	
+Hacer una tabla como sigue
+
+Razón|Cálculo|Mide|Interpretación|Gráfica|
+------------------------------------------
+
+Dar valor a los 4 factores y acumular puntos
+Entregar el  Miercoles 20 de Marzo
